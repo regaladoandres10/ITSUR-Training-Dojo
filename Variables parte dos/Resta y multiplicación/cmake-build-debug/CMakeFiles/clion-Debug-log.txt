@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Aluna\OneDrive\Documentos\Programming Competitive\Variables parte dos\Resta y multiplicación Select CMakeLists.txt
